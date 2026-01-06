@@ -3,6 +3,6 @@
 I'm a second year undergraduate student from East China Normal University.
 
 #### Email  
-<code>51275901144@ecnu.edu.cn</code>  
+<code>51275901144@stu.ecnu.edu.cn</code>  
   
 
